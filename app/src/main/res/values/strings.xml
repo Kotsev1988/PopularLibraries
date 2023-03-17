@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PopularLibraries</string>
+    <string name="load_data_from_github">Load Data from Github</string>
 </resources>
